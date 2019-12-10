@@ -1,0 +1,24 @@
+.body {
+<<<<<<< HEAD
+  background: #050552;
+}
+
+.h1 {
+  font-size: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  color: #e2a600;
+}
+
+.p {
+  font-size: 13px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  color: #2be2ca;
+}
+=======
+  background: #b94c4c;
+}
+
+/*# sourceMappingURL=styles.css.map */
+>>>>>>> b3df12d15efeac811430f460de8054bd50083fd4
